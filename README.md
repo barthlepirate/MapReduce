@@ -34,10 +34,3 @@ Detailed instructions on setting up the environment, deploying, and running the 
 
 The input data for this project is a collection of text files stored in Azure Blob Storage. These files contain paragraphs from the "Saving Mr. Banks" song played in class.
 
-## Contributions
-
-As this project is part of a lab assignment, contributions are not currently being accepted. However, feedback on the implementation is welcome.
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
